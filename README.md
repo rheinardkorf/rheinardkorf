@@ -1,4 +1,4 @@
-### Hi, I'm Rheinard. 👋
+### Hi, I'm Rheinard. <img src="./the_fox.svg" height="24" width="24" >
 
 
 
