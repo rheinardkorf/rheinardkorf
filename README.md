@@ -1,4 +1,4 @@
-### Hi, I'm Rheinard. <img src="https://raw.githubusercontent.com/rheinardkorf/rheinardkorf/master/github_hello.png" height="41" >
+<img src="https://raw.githubusercontent.com/rheinardkorf/rheinardkorf/master/github_hello.png" height="41" >
 
 
 
