@@ -1,4 +1,4 @@
-### Hi, I'm Rheinard. <img src="https://raw.githubusercontent.com/rheinardkorf/rheinardkorf/master/the_fox.svg" height="24" width="24" >
+### Hi, I'm Rheinard. <img src="https://raw.githubusercontent.com/rheinardkorf/rheinardkorf/master/github_hello.png" height="41" >
 
 
 
