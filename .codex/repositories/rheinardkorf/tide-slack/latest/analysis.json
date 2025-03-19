@@ -1,0 +1,120 @@
+{
+  "language": "Go",
+  "contributedFiles": 82,
+  "totalCommits": 27,
+  "commitStats": {
+    "totalAdditions": 9731,
+    "totalDeletions": 9220,
+    "totalFileChanges": 18951
+  },
+  "latestCommitDate": "2018-07-22T23:26:51.000Z",
+  "languages": {
+    "go": {
+      "name": "go",
+      "lines": 7191,
+      "type": "language",
+      "fileCount": 47,
+      "additions": 7191,
+      "deletions": 0,
+      "percentage": 96
+    },
+    "vimdoc": {
+      "name": "vimdoc",
+      "lines": 27,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 27,
+      "deletions": 0,
+      "percentage": 0.4
+    },
+    "gitignore": {
+      "name": "gitignore",
+      "lines": 4,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 4,
+      "deletions": 0,
+      "percentage": 0.1
+    },
+    "toml": {
+      "name": "toml",
+      "lines": 34,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 34,
+      "deletions": 0,
+      "percentage": 0.5
+    },
+    "dockerfile": {
+      "name": "dockerfile",
+      "lines": 21,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 21,
+      "deletions": 0,
+      "percentage": 0.3
+    },
+    "json": {
+      "name": "json",
+      "lines": 75,
+      "type": "language",
+      "fileCount": 2,
+      "additions": 75,
+      "deletions": 0,
+      "percentage": 1
+    },
+    "css": {
+      "name": "css",
+      "lines": 26,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 26,
+      "deletions": 0,
+      "percentage": 0.3
+    },
+    "html": {
+      "name": "html",
+      "lines": 100,
+      "type": "language",
+      "fileCount": 3,
+      "additions": 100,
+      "deletions": 0,
+      "percentage": 1
+    },
+    "yaml": {
+      "name": "yaml",
+      "lines": 9,
+      "type": "language",
+      "fileCount": 2,
+      "additions": 9,
+      "deletions": 0,
+      "percentage": 0.1
+    },
+    "gitattributes": {
+      "name": "gitattributes",
+      "lines": 7,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 7,
+      "deletions": 0,
+      "percentage": 0.1
+    }
+  },
+  "shallowLanguageMatches": [
+    "gitattributes",
+    "gitignore",
+    "dockerfile",
+    "toml",
+    "json",
+    "go",
+    "yaml"
+  ],
+  "llm": {
+    "interpretation": {},
+    "highLevelTechnologies": {}
+  },
+  "metadata": {
+    "timestamp": "2025-03-19T04:50:40.809Z",
+    "analyzer_version": "0.0.1"
+  }
+}
