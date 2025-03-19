@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Linguist",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "String Matching",
+    "type": "Algorithms",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Pattern Matching",
+    "type": "Algorithms",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Go",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Docker",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Buildpack",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "tar",
+    "type": "Utility",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Tide",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "GitHub",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Heroku",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "JSON",
+    "type": "Format",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Object Notation",
+    "type": "Format",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Slack",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Tide API",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Net/http",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "HTTP",
+    "type": "Protocol",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Golang",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  }
+]
