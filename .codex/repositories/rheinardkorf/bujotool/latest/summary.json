@@ -5,9 +5,70 @@
     "toml",
     "javascript"
   ],
-  "technologies": [],
+  "technologies": [
+    {
+      "name": "CSS",
+      "type": "Language"
+    },
+    {
+      "name": "HTML",
+      "type": "Language"
+    },
+    {
+      "name": "JavaScript",
+      "type": "Language"
+    },
+    {
+      "name": "Grid Layout",
+      "type": "Feature"
+    },
+    {
+      "name": "Browser",
+      "type": "Platform"
+    },
+    {
+      "name": "Netlify",
+      "type": "Platform"
+    },
+    {
+      "name": "npm",
+      "type": "Package"
+    },
+    {
+      "name": "uglify-js",
+      "type": "Utility"
+    },
+    {
+      "name": "publish",
+      "type": "Process"
+    },
+    {
+      "name": "build",
+      "type": "Process"
+    },
+    {
+      "name": "Node.js",
+      "type": "Language"
+    },
+    {
+      "name": "Express.js",
+      "type": "Framework"
+    },
+    {
+      "name": "MongoDB",
+      "type": "Database"
+    },
+    {
+      "name": "TypeScript",
+      "type": "Language"
+    },
+    {
+      "name": "Webpack",
+      "type": "Build Tool"
+    }
+  ],
   "contributions": {},
-  "timestamp": "2025-03-19T04:18:20.434Z",
+  "timestamp": "2025-03-19T04:26:20.894Z",
   "analyzedRepo": "rheinardkorf/bujotool",
   "analyzer_version": "0.0.1",
   "commit_sha": null
