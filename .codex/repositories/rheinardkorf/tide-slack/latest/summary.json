@@ -1,0 +1,87 @@
+{
+  "filesAnalyzed": 14,
+  "languagesDetected": [
+    "gitattributes",
+    "gitignore",
+    "dockerfile",
+    "toml",
+    "json",
+    "go",
+    "yaml"
+  ],
+  "technologies": [
+    {
+      "name": "Linguist",
+      "type": "Framework"
+    },
+    {
+      "name": "String Matching",
+      "type": "Algorithms"
+    },
+    {
+      "name": "Pattern Matching",
+      "type": "Algorithms"
+    },
+    {
+      "name": "Go",
+      "type": "Language"
+    },
+    {
+      "name": "Docker",
+      "type": "Platform"
+    },
+    {
+      "name": "Buildpack",
+      "type": "Framework"
+    },
+    {
+      "name": "tar",
+      "type": "Utility"
+    },
+    {
+      "name": "Tide",
+      "type": "Framework"
+    },
+    {
+      "name": "GitHub",
+      "type": "Platform"
+    },
+    {
+      "name": "Heroku",
+      "type": "Platform"
+    },
+    {
+      "name": "JSON",
+      "type": "Format"
+    },
+    {
+      "name": "Object Notation",
+      "type": "Format"
+    },
+    {
+      "name": "Slack",
+      "type": "Platform"
+    },
+    {
+      "name": "Tide API",
+      "type": "API"
+    },
+    {
+      "name": "Net/http",
+      "type": "Framework"
+    },
+    {
+      "name": "HTTP",
+      "type": "Protocol"
+    },
+    {
+      "name": "Golang",
+      "type": "Language"
+    }
+  ],
+  "contributions": {},
+  "timestamp": "2025-03-19T04:50:40.809Z",
+  "analyzedRepo": "rheinardkorf/tide-slack",
+  "analyzer_version": "0.0.1",
+  "commit_sha": null
+}
