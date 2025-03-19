@@ -42,8 +42,12 @@
     "toml",
     "javascript"
   ],
+  "llm": {
+    "interpretation": {},
+    "highLevelTechnologies": {}
+  },
   "metadata": {
-    "timestamp": "2025-03-19T04:15:45.618Z",
+    "timestamp": "2025-03-19T04:18:20.434Z",
     "analyzer_version": "0.0.1"
   }
 }
