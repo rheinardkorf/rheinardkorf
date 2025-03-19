@@ -1,0 +1,43 @@
+{
+  "language": "Go",
+  "contributedFiles": 19,
+  "totalCommits": 3,
+  "commitStats": {
+    "totalAdditions": 1162,
+    "totalDeletions": 1,
+    "totalFileChanges": 1163
+  },
+  "latestCommitDate": "2018-02-08T05:45:16.000Z",
+  "languages": {
+    "go": {
+      "name": "go",
+      "lines": 1120,
+      "type": "language",
+      "fileCount": 17,
+      "additions": 1120,
+      "deletions": 0,
+      "percentage": 99
+    },
+    "gitignore": {
+      "name": "gitignore",
+      "lines": 14,
+      "type": "language",
+      "fileCount": 1,
+      "additions": 14,
+      "deletions": 0,
+      "percentage": 1
+    }
+  },
+  "shallowLanguageMatches": [
+    "gitignore",
+    "go"
+  ],
+  "llm": {
+    "interpretation": {},
+    "highLevelTechnologies": {}
+  },
+  "metadata": {
+    "timestamp": "2025-03-19T04:54:16.481Z",
+    "analyzer_version": "0.0.1"
+  }
+}
