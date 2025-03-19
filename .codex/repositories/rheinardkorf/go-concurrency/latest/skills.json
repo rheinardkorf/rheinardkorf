@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Git",
+    "type": "Version Control",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Python",
+    "type": "Scripting",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Regular Expressions",
+    "type": "Pattern Matching",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Windows",
+    "type": "OS",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "IDE",
+    "type": "Development Environment",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Go",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Goroutines",
+    "type": "Concurrency",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Channels",
+    "type": "Data Structure",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "time",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "fmt",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Goroutine",
+    "type": "Concurrency",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Channel",
+    "type": "Communication",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Range",
+    "type": "Iteration",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Goroutine-based concurrency",
+    "type": "Concurrency",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Range-based for loop",
+    "type": "Iteration",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "math/rand",
+    "type": "Randomization",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Golang",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Concurrency",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Make",
+    "type": "Factory",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Package",
+    "type": "Concept",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Time",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Synchronization",
+    "type": "Synchronization",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Patterns",
+    "type": "Design",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "WaitGroups",
+    "type": "Feature",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Pipeline",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Context",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Select statement",
+    "type": "Query",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Done",
+    "type": "Event",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "errors",
+    "type": "Error",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "chan",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "select",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "context",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "buffered channels",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Sync",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Processor",
+    "type": "Concept",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Errors",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Observer pattern",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Singleton pattern",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Select",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Chan",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Writer",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Channel-based communication",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Error handling",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Context management",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Writer-based output",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  }
+]
