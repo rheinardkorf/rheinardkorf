@@ -1,0 +1,78 @@
+{
+  "repository": "rheinardkorf/bujotool",
+  "analyses": {
+    "latest": {
+      "timestamp": "2025-03-19T04:46:58.924Z",
+      "analyzer_version": "0.0.1",
+      "status": "success",
+      "summary": {
+        "filesAnalyzed": 3,
+        "languagesDetected": [
+          "html",
+          "toml",
+          "javascript"
+        ],
+        "technologies": [
+          {
+            "name": "JavaScript",
+            "type": "Language"
+          },
+          {
+            "name": "Canvas",
+            "type": "Platform"
+          },
+          {
+            "name": "JSON",
+            "type": "Format"
+          },
+          {
+            "name": "DOM",
+            "type": "API"
+          },
+          {
+            "name": "Event-driven",
+            "type": "Pattern"
+          },
+          {
+            "name": "NPM",
+            "type": "Package"
+          },
+          {
+            "name": "UglifyJS",
+            "type": "Compiler"
+          },
+          {
+            "name": "Static Site Generation",
+            "type": "Platform"
+          },
+          {
+            "name": "Node.js",
+            "type": "Framework"
+          },
+          {
+            "name": "Express.js",
+            "type": "Framework"
+          },
+          {
+            "name": "React",
+            "type": "Library"
+          },
+          {
+            "name": "Redux",
+            "type": "Library"
+          },
+          {
+            "name": "GraphQL",
+            "type": "Protocol"
+          }
+        ],
+        "contributions": {},
+        "timestamp": "2025-03-19T04:46:56.838Z",
+        "analyzedRepo": "rheinardkorf/bujotool",
+        "analyzer_version": "0.0.1",
+        "commit_sha": null
+      },
+      "commit_sha": "cad7bf7299b65a929be691a0bf7a457c1fe3fd82"
+    }
+  }
+}
