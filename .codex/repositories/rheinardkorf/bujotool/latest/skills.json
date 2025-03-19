@@ -1,0 +1,80 @@
+[
+  {
+    "name": "JavaScript",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Canvas",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "JSON",
+    "type": "Format",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "DOM",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Event-driven",
+    "type": "Pattern",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "NPM",
+    "type": "Package",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "UglifyJS",
+    "type": "Compiler",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Static Site Generation",
+    "type": "Platform",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Node.js",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Express.js",
+    "type": "Framework",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "React",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Redux",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "GraphQL",
+    "type": "Protocol",
+    "confidence": 1,
+    "source": "analysis"
+  }
+]
