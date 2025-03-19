@@ -7,40 +7,48 @@
   ],
   "technologies": [
     {
+      "name": "HTML",
+      "type": "Language"
+    },
+    {
+      "name": "CSS",
+      "type": "Language"
+    },
+    {
       "name": "JavaScript",
       "type": "Language"
     },
     {
       "name": "Canvas",
-      "type": "Platform"
-    },
-    {
-      "name": "JSON",
-      "type": "Format"
-    },
-    {
-      "name": "DOM",
       "type": "API"
     },
     {
-      "name": "Event-driven",
+      "name": "MVC",
       "type": "Pattern"
     },
     {
-      "name": "NPM",
-      "type": "Package"
+      "name": "Build",
+      "type": "Framework"
     },
     {
-      "name": "UglifyJS",
-      "type": "Compiler"
-    },
-    {
-      "name": "Static Site Generation",
+      "name": "npm",
       "type": "Platform"
     },
     {
+      "name": "uglify-js",
+      "type": "Library"
+    },
+    {
+      "name": "table",
+      "type": "Database"
+    },
+    {
+      "name": "Command",
+      "type": "API"
+    },
+    {
       "name": "Node.js",
-      "type": "Framework"
+      "type": "Language"
     },
     {
       "name": "Express.js",
@@ -51,16 +59,16 @@
       "type": "Library"
     },
     {
-      "name": "Redux",
-      "type": "Library"
+      "name": "Express",
+      "type": "API"
     },
     {
-      "name": "GraphQL",
-      "type": "Protocol"
+      "name": "MongoDB",
+      "type": "Database"
     }
   ],
   "contributions": {},
-  "timestamp": "2025-03-19T04:46:56.838Z",
+  "timestamp": "2025-03-19T05:00:03.223Z",
   "analyzedRepo": "rheinardkorf/bujotool",
   "analyzer_version": "0.0.1",
   "commit_sha": null
