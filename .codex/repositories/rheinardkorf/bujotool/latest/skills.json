@@ -1,5 +1,17 @@
 [
   {
+    "name": "HTML",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "CSS",
+    "type": "Language",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
     "name": "JavaScript",
     "type": "Language",
     "confidence": 1,
@@ -7,49 +19,49 @@
   },
   {
     "name": "Canvas",
-    "type": "Platform",
-    "confidence": 1,
-    "source": "analysis"
-  },
-  {
-    "name": "JSON",
-    "type": "Format",
-    "confidence": 1,
-    "source": "analysis"
-  },
-  {
-    "name": "DOM",
     "type": "API",
     "confidence": 1,
     "source": "analysis"
   },
   {
-    "name": "Event-driven",
+    "name": "MVC",
     "type": "Pattern",
     "confidence": 1,
     "source": "analysis"
   },
   {
-    "name": "NPM",
-    "type": "Package",
+    "name": "Build",
+    "type": "Framework",
     "confidence": 1,
     "source": "analysis"
   },
   {
-    "name": "UglifyJS",
-    "type": "Compiler",
-    "confidence": 1,
-    "source": "analysis"
-  },
-  {
-    "name": "Static Site Generation",
+    "name": "npm",
     "type": "Platform",
     "confidence": 1,
     "source": "analysis"
   },
   {
+    "name": "uglify-js",
+    "type": "Library",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "table",
+    "type": "Database",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
+    "name": "Command",
+    "type": "API",
+    "confidence": 1,
+    "source": "analysis"
+  },
+  {
     "name": "Node.js",
-    "type": "Framework",
+    "type": "Language",
     "confidence": 1,
     "source": "analysis"
   },
@@ -66,14 +78,14 @@
     "source": "analysis"
   },
   {
-    "name": "Redux",
-    "type": "Library",
+    "name": "Express",
+    "type": "API",
     "confidence": 1,
     "source": "analysis"
   },
   {
-    "name": "GraphQL",
-    "type": "Protocol",
+    "name": "MongoDB",
+    "type": "Database",
     "confidence": 1,
     "source": "analysis"
   }
