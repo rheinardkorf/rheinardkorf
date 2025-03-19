@@ -1,0 +1,194 @@
+{
+  "filesAnalyzed": 19,
+  "languagesDetected": [
+    "gitignore",
+    "go"
+  ],
+  "technologies": [
+    {
+      "name": "Git",
+      "type": "Version Control"
+    },
+    {
+      "name": "Python",
+      "type": "Scripting"
+    },
+    {
+      "name": "Regular Expressions",
+      "type": "Pattern Matching"
+    },
+    {
+      "name": "Windows",
+      "type": "OS"
+    },
+    {
+      "name": "IDE",
+      "type": "Development Environment"
+    },
+    {
+      "name": "Go",
+      "type": "Language"
+    },
+    {
+      "name": "Goroutines",
+      "type": "Concurrency"
+    },
+    {
+      "name": "Channels",
+      "type": "Data Structure"
+    },
+    {
+      "name": "time",
+      "type": "Library"
+    },
+    {
+      "name": "fmt",
+      "type": "Library"
+    },
+    {
+      "name": "Goroutine",
+      "type": "Concurrency"
+    },
+    {
+      "name": "Channel",
+      "type": "Communication"
+    },
+    {
+      "name": "Range",
+      "type": "Iteration"
+    },
+    {
+      "name": "Goroutine-based concurrency",
+      "type": "Concurrency"
+    },
+    {
+      "name": "Range-based for loop",
+      "type": "Iteration"
+    },
+    {
+      "name": "math/rand",
+      "type": "Randomization"
+    },
+    {
+      "name": "Golang",
+      "type": "Language"
+    },
+    {
+      "name": "Concurrency",
+      "type": "Framework"
+    },
+    {
+      "name": "Make",
+      "type": "Factory"
+    },
+    {
+      "name": "Package",
+      "type": "Concept"
+    },
+    {
+      "name": "Time",
+      "type": "Library"
+    },
+    {
+      "name": "Synchronization",
+      "type": "Synchronization"
+    },
+    {
+      "name": "Patterns",
+      "type": "Design"
+    },
+    {
+      "name": "WaitGroups",
+      "type": "Feature"
+    },
+    {
+      "name": "Pipeline",
+      "type": "Pattern"
+    },
+    {
+      "name": "Context",
+      "type": "Framework"
+    },
+    {
+      "name": "Select statement",
+      "type": "Query"
+    },
+    {
+      "name": "Done",
+      "type": "Event"
+    },
+    {
+      "name": "errors",
+      "type": "Error"
+    },
+    {
+      "name": "chan",
+      "type": "API"
+    },
+    {
+      "name": "select",
+      "type": "API"
+    },
+    {
+      "name": "context",
+      "type": "API"
+    },
+    {
+      "name": "buffered channels",
+      "type": "Pattern"
+    },
+    {
+      "name": "Sync",
+      "type": "Framework"
+    },
+    {
+      "name": "Processor",
+      "type": "Concept"
+    },
+    {
+      "name": "Errors",
+      "type": "Framework"
+    },
+    {
+      "name": "Observer pattern",
+      "type": "Pattern"
+    },
+    {
+      "name": "Singleton pattern",
+      "type": "Pattern"
+    },
+    {
+      "name": "Select",
+      "type": "API"
+    },
+    {
+      "name": "Chan",
+      "type": "API"
+    },
+    {
+      "name": "Writer",
+      "type": "API"
+    },
+    {
+      "name": "Channel-based communication",
+      "type": "Pattern"
+    },
+    {
+      "name": "Error handling",
+      "type": "Pattern"
+    },
+    {
+      "name": "Context management",
+      "type": "Pattern"
+    },
+    {
+      "name": "Writer-based output",
+      "type": "Pattern"
+    }
+  ],
+  "contributions": {},
+  "timestamp": "2025-03-19T04:54:16.481Z",
+  "analyzedRepo": "rheinardkorf/go-concurrency",
+  "analyzer_version": "0.0.1",
+  "commit_sha": null
+}
