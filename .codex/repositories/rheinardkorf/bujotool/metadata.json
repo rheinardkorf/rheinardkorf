@@ -2,7 +2,7 @@
   "repository": "rheinardkorf/bujotool",
   "analyses": {
     "latest": {
-      "timestamp": "2025-03-19T04:46:58.924Z",
+      "timestamp": "2025-03-19T05:00:05.639Z",
       "analyzer_version": "0.0.1",
       "status": "success",
       "summary": {
@@ -14,40 +14,48 @@
         ],
         "technologies": [
           {
+            "name": "HTML",
+            "type": "Language"
+          },
+          {
+            "name": "CSS",
+            "type": "Language"
+          },
+          {
             "name": "JavaScript",
             "type": "Language"
           },
           {
             "name": "Canvas",
-            "type": "Platform"
-          },
-          {
-            "name": "JSON",
-            "type": "Format"
-          },
-          {
-            "name": "DOM",
             "type": "API"
           },
           {
-            "name": "Event-driven",
+            "name": "MVC",
             "type": "Pattern"
           },
           {
-            "name": "NPM",
-            "type": "Package"
+            "name": "Build",
+            "type": "Framework"
           },
           {
-            "name": "UglifyJS",
-            "type": "Compiler"
-          },
-          {
-            "name": "Static Site Generation",
+            "name": "npm",
             "type": "Platform"
           },
           {
+            "name": "uglify-js",
+            "type": "Library"
+          },
+          {
+            "name": "table",
+            "type": "Database"
+          },
+          {
+            "name": "Command",
+            "type": "API"
+          },
+          {
             "name": "Node.js",
-            "type": "Framework"
+            "type": "Language"
           },
           {
             "name": "Express.js",
@@ -58,21 +66,21 @@
             "type": "Library"
           },
           {
-            "name": "Redux",
-            "type": "Library"
+            "name": "Express",
+            "type": "API"
           },
           {
-            "name": "GraphQL",
-            "type": "Protocol"
+            "name": "MongoDB",
+            "type": "Database"
           }
         ],
         "contributions": {},
-        "timestamp": "2025-03-19T04:46:56.838Z",
+        "timestamp": "2025-03-19T05:00:03.223Z",
         "analyzedRepo": "rheinardkorf/bujotool",
         "analyzer_version": "0.0.1",
         "commit_sha": null
       },
-      "commit_sha": "cad7bf7299b65a929be691a0bf7a457c1fe3fd82"
+      "commit_sha": "b81d2ddb12f8f2f4ff33d5df1e83cb9913152841"
     }
   }
 }
