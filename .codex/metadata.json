@@ -33,8 +33,105 @@
       },
       "total_files": 3,
       "status": "success"
+    },
+    "rheinardkorf/tide-slack": {
+      "last_analyzed": "2025-03-19T04:50:41.993Z",
+      "language_summary": {
+        "go": {
+          "name": "go",
+          "lines": 7191,
+          "type": "language",
+          "fileCount": 47,
+          "additions": 7191,
+          "deletions": 0,
+          "percentage": 96
+        },
+        "vimdoc": {
+          "name": "vimdoc",
+          "lines": 27,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 27,
+          "deletions": 0,
+          "percentage": 0.4
+        },
+        "gitignore": {
+          "name": "gitignore",
+          "lines": 4,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 4,
+          "deletions": 0,
+          "percentage": 0.1
+        },
+        "toml": {
+          "name": "toml",
+          "lines": 34,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 34,
+          "deletions": 0,
+          "percentage": 0.5
+        },
+        "dockerfile": {
+          "name": "dockerfile",
+          "lines": 21,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 21,
+          "deletions": 0,
+          "percentage": 0.3
+        },
+        "json": {
+          "name": "json",
+          "lines": 75,
+          "type": "language",
+          "fileCount": 2,
+          "additions": 75,
+          "deletions": 0,
+          "percentage": 1
+        },
+        "css": {
+          "name": "css",
+          "lines": 26,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 26,
+          "deletions": 0,
+          "percentage": 0.3
+        },
+        "html": {
+          "name": "html",
+          "lines": 100,
+          "type": "language",
+          "fileCount": 3,
+          "additions": 100,
+          "deletions": 0,
+          "percentage": 1
+        },
+        "yaml": {
+          "name": "yaml",
+          "lines": 9,
+          "type": "language",
+          "fileCount": 2,
+          "additions": 9,
+          "deletions": 0,
+          "percentage": 0.1
+        },
+        "gitattributes": {
+          "name": "gitattributes",
+          "lines": 7,
+          "type": "language",
+          "fileCount": 1,
+          "additions": 7,
+          "deletions": 0,
+          "percentage": 0.1
+        }
+      },
+      "total_files": 14,
+      "status": "success"
     }
   },
-  "last_updated": "2025-03-19T04:46:58.071Z",
-  "total_repositories": 1
+  "last_updated": "2025-03-19T04:50:41.993Z",
+  "total_repositories": 2
 }
